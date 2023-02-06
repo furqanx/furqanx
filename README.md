@@ -8,7 +8,7 @@
 - 🌱 Currently focusing on Software development based on Web Application  
 - 👨‍💻 I'm interested heavily in Artificial Intelligence and Machine Learning
 - 📫 How to reach me: alghifarifurqan03@gmail.com
-- ⚡ Fun fact: i love chocolate 😄
+- ⚡ Fun fact: i love chocolate 
 
 <br/>
 
