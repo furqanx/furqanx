@@ -1,7 +1,8 @@
+### Welcome to my Github 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### Welcome to my Github 👋
 
 - 🔭 Computer Science Student in Syiah Kuala University
 - 🌱 I’m currently focusing on Software development based on Web Application  
