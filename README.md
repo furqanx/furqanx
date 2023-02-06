@@ -6,14 +6,7 @@
 - ⚡ Fun fact: i love chocolate 😄
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furqanx)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furqanx)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furqanx&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=furqanx)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furqanx)   
 
 ![Profile views](https://gpvc.arturio.dev/furqanx)  
 
