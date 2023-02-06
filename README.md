@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
 
-- 🔭 Student in Syiah Kuala University
+- 🔭 Computer Science Student in Syiah Kuala University
 - 🌱 I’m currently focusing on Software development based on Web Application  
 - 📫 How to reach me: alghifarifurqan03@gmail.com
 - ⚡ Fun fact: i love chocolate 😄
