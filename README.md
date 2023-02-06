@@ -9,9 +9,19 @@
 - 📫 How to reach me: alghifarifurqan03@gmail.com
 - ⚡ Fun fact: i love chocolate 😄
 
+<div>
+  https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white
+
+  https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+
+  https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white
+</div>
 
 
+
+<!-- github logo
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furqanx)   
+-->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/furqanx)  -->
 
