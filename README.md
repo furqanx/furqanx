@@ -2,7 +2,7 @@
 
 - 🔭 Computer Science Student in Syiah Kuala University
 - 🌱 I’m currently focusing on Software development based on Web Application  
-- 📫 How to reach me: alghifarifurqan03@gmail.com
+- 📫 How to reach me: alghifarifurqan03@gmail.com-red
 - ⚡ Fun fact: i love chocolate 😄
 
 
