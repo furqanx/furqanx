@@ -6,7 +6,7 @@
 
 - 🔭 Computer Science Student in Syiah Kuala University
 - 🌱 I’m currently focusing on Software development based on Web Application  
-- 📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">alghifarifurqan03@gmail.com</img>
+- 📫 How to reach me: alghifarifurqan03@gmail.com
 - ⚡ Fun fact: i love chocolate 😄
 
 <br/>
