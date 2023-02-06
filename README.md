@@ -6,9 +6,10 @@
 - ⚡ Fun fact: i love chocolate 😄
 
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furqanx)   
 
-![Profile views](https://gpvc.arturio.dev/furqanx)  
+<!-- ![Profile views](https://gpvc.arturio.dev/furqanx)  -->
 
 <!--
 ### Hi there 👋
