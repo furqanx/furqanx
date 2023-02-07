@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 Computer Science Student in Syiah Kuala University
+- 🔭 I'm Computer Science Student in Syiah Kuala University
 - 🌱 Currently focusing on Software development based on Web Application  
 - 👨‍💻 I'm interested heavily in Artificial Intelligence and Machine Learning
 - 📫 How to reach me: alghifarifurqan03@gmail.com
