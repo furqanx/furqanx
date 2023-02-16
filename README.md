@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I'm a Computer Science Student in Syiah Kuala University
-- 🌱 Currently focusing on Software development based on Web Application  
+- 🌱 Currently focusing on Software development based on Web and Mobile Application
 - 👨‍💻 I'm interested heavily in Artificial Intelligence and Machine Learning
 - 📫 How to reach me: alghifarifurqan03@gmail.com
 - ⚡ Fun fact: i love chocolate 
